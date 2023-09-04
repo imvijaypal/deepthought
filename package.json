@@ -1,0 +1,14 @@
+{
+  "name": "deepthought",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "chrome":"testcafe chrome login.js",
+    "firefox":"testcafe firefox login.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
